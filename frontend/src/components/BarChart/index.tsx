@@ -32,7 +32,7 @@ const Barchart = () => {
     });
 
     useEffect(() => {
-        axios.get(`${BASE_URL}/sales/succes-by-seller`)
+        axios.get(`${BASE_URL}/sales/success-by-seller`)
             .then(response => {
 
                 const data = response.data as SaleSuccess[];
