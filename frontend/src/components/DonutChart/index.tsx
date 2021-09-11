@@ -25,12 +25,7 @@ const DonutChart = () => {
                 console.log(response.data);
             });
     }, []);
-    
-    //    const mockData = {
-    //        series: [477138, 499928, 444867, 220426],
-    //        labels: ['Calebe', 'Luanda', 'Santiago', 'Valadares']
-    //    };
-    
+
     const options = {
         legend: {
             show: true
