@@ -6,6 +6,11 @@ Projeto realizado durante a semana Spring + React do grupo de ensino devsuperior
   <img src="https://media-exp1.licdn.com/dms/image/C4D1BAQEUsOs74190AQ/company-background_10000/0/1615125082083?e=2159024400&v=beta&t=Dd3wds2pADzvthUA7Z6hh7aNqkJiz-xM_9REcIdhCJM" alt="Dev Superior" width="650">
 <br>
 <br>
+  
+##  Visualizar aplicação
+
+-  Para conhecer o resultado desse projeto, basta entrar no <a href = "https://dsvendas-calebe.netlify.app">link de produção</a>
+
 
 ## Tecnologias Front-end 🎨
 As tecnologias utilizadas foram:
@@ -49,9 +54,3 @@ As tecnologias utilizadas foram:
 - Consulta paginada de vendas
 - Consultas agrupadas para gráficos
 - Implantação na nuvem
-
-
-
-##  Visualizar aplicação
-
--  Para conhecer o resultado desse projeto, basta entrar no <a href = "https://dsvendas-calebe.netlify.app">link de produção</a>
