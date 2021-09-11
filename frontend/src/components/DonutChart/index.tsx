@@ -22,7 +22,6 @@ const DonutChart = () => {
                 const mySeries = data.map(x => x.soma);
 
                 setChartData({labels: myLabels, series: mySeries});
-                console.log(response.data);
             });
     }, []);
 
